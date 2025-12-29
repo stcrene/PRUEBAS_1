@@ -1,4 +1,5 @@
 import streamlit as st
 
-st.title("Hola Mundo 🌍")
-st.write("Mi primera aplicación con Streamlit + GitHub")
+st.title("Hola Universo 🌍")
+
+st.write("Mi primera aplicacióngggggcon Streamlit + GitHub")
